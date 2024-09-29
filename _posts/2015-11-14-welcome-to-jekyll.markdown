@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Suscríbete con Nosotros"
 date:   2015-11-14 16:52:07
 categories: jekyll update
 tags: jekyll update
 image: /images/pic02.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+¿Quieres ser parte de nuestra familia de repartidores y ganar dinero en tu tiempo libre?
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+¡Únete a nuestro equipo de repartidores! Ofrecemos la oportunidad de ser tu propio jefe, establecer tus propios horarios y ganar dinero mientras entregas los pedidos de nuestros clientes. Con nuestra app intuitiva y un sistema de pago seguro, podrás empezar a ganar dinero en poco tiempo.
 
 Jekyll also offers powerful support for code snippets:
 
